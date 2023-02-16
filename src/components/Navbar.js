@@ -19,7 +19,6 @@ export default function Navbar(props) {
               <li className="nav-item">
                 <Link className="nav-link" to="/about">About</Link>
               </li>
-
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Choose color
